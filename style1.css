@@ -19,13 +19,6 @@ body{
     border-bottom:3px solid rgb(77, 109, 4);
     background-color:  #5ca08e;
 }
-
-.to-top{                                                              
-    position:fixed;
-    font-size:30px;
-    filter: opacity(1);
-}
-
 .logo
 {
     height: 100px;
